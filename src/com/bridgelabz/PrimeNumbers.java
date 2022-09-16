@@ -1,4 +1,5 @@
-// Prime Numbers
+// Prime Numbers Serial
+
 package com.bridgelabz;
 import java.util.Scanner;
 public class PrimeNumbers
