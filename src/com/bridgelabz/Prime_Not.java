@@ -1,3 +1,4 @@
+// Prime Number or Not
 package com.bridgelabz;
 import java.util.Scanner;
 public class Prime_Not
